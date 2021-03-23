@@ -22,5 +22,17 @@
   },
   "include": [
     "src"
-  ]
+  ],
+  // "baseurl": "./",
+  // "path": {
+  //   "@components/*": [
+  //     "components/*"
+  //   ],
+  //   "@utils/*": [
+  //     "utils/*"
+  //   ],
+  //   "screens/*": [
+  //     "screens/*"
+  //   ],
+  // }
 }
